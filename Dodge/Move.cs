@@ -41,7 +41,7 @@ public class Move : MonoBehaviour {
 3D 旋转 = Euler Angles
 오일러 각의 Vector3: 欧拉角只是实现 3D 旋转的方法之一
 
-< Gimbal Lock >
+< Gimbal Lock > p. 441
 > Gimbal Lock 的 定义:: 3D 空间中两个旋转轴重合，导致失去 1 个自由度的现象。
 
 > Gimbal Lock 的 产生原因 :
